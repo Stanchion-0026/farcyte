@@ -4,6 +4,9 @@ config.json
 # Transcript file(s)
 *.txt
 
+# fii (whatever this is)
+fii/
+
 # Logs
 logs
 *.log
